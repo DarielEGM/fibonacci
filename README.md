@@ -7,4 +7,5 @@ The goal of the application is to save in a list the numbers that comply with th
 ## ✨**Main View**✨
 
 Here is an example of what the app looks like when it runs.
+
 ![image](https://github.com/DarielEGM/fibonacci/assets/123778387/544b1c99-b02d-48dc-8fda-224da65a4935)
