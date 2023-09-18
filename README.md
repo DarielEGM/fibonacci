@@ -1,4 +1,4 @@
-# fibonacci![fibonacci](https://github.com/DarielEGM/fibonacci/assets/123778387/470681c5-5a04-4f3c-9811-16549dc8602b)
+# fibonacci ![fibonacci](https://github.com/DarielEGM/fibonacci/assets/123778387/470681c5-5a04-4f3c-9811-16549dc8602b)
 
 This project was built with Python.
 
